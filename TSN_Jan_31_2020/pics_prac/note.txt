@@ -1,0 +1,5 @@
+The IAPS images have been removed, as per our agreement with the IAPS team.
+
+To access these images, please contact the Center for the Study of Emotion and Attention at the University of Florida: https://csea.phhp.ufl.edu/media/iapsmessage.html
+
+You can reference the IAPS photos used in this study using the pics160_wide.xlsx file, which contain the IAPS image names.

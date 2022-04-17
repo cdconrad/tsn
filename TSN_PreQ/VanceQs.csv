@@ -1,0 +1,14 @@
+﻿index,questionText,options,layout,type,questionWidth,responseWidth
+7,It is likely that my computer will become infected with malware.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+8,I would like to explore strange places.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+9,"I like new and exciting experiences, even if I have to break the rules.","strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+10,Ignoring malware warning screens can put important data at risk.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+11,"If my computer were infected by malware, it would be significant.","strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+12,Ignoring malware warning screens will most likely cause security breaches.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+13,"If my computer were infected by malware, it would be serious.","strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+14,Ignoring malware warning screens can cause damages to computer security.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+15,It is possible that my computer will become infected with malware,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+16,"If my computer were infected by malware, it would be severe.","strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+17,I prefer friends who are exciting and unpredictable.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+18,I like to do frightening things.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5
+19,My computer is at risk for becoming infected with malware.,"strongly disagree, disagree, neutral, agree, strongly agree",horiz,radio,0.5,0.5

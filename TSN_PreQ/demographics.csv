@@ -1,0 +1,5 @@
+index,questionText,options,layout,type,questionWidth,responseWidth
+1,What gender do you identify as?,"female, male, non-binary, prefer not to answer, other",horiz,radio,0.5,0.5
+2,How skilled are you at using computer systems?,"not at all, almost not at all, very little, neutral, a bit, very much, extremely",horiz,radio,0.3,0.7
+3,Which hand do you primarily use?,"left, right, both (ambidextrous)",horiz,radio,0.4,0.4
+4,Is English your native language?,"yes, no",horiz,radio,0.5,0.2
